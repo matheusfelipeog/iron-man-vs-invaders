@@ -8,7 +8,7 @@
 > Salve a terra dos Invaders junto com o Iron Man
 
 <p align="center">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1561061304/iron_man_vs_invaders/preview-iron-man-game_jnfsdg.gif" width="350px"/>
+    <img src="assets/preview-iron-man-game.gif" width="350px"/>
 </p>
 
 ## O que é MIT App Inventor ?
@@ -58,7 +58,7 @@ O jogo utiliza os sensores de orientação e temporizador do próprio dispositiv
 
 > **OBS:** A plataforma **MIT App Inventor** com o domínio *ai2.appinventor.mit.edu* possui limitação de 10MB para geração de APK. Você pode gerar um *Projeto .aia* e exportar para a plataforma MIT App Inventor com domínio *code.appinventor.mit.edu* e seguir os mesmos passos abaixo ou realizar todo o processo diretamente nesse outro domínio caso seu projeto ultrapasse esse limite.
 
-Para realizar modificações no Jogo, é necessário fazer o download do [Projeto .aia](//ironMan_Vs_Invaders.aia) em sua maquina e seguir os seguintes passos:
+Para realizar modificações no Jogo, é necessário fazer o download do [Projeto .aia](ironMan_Vs_Invaders.aia) em sua maquina e seguir os seguintes passos:
 
 <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1561063736/iron_man_vs_invaders/img_download_aia_btpjfl.png" />
 
