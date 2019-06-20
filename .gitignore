@@ -1,0 +1,11 @@
+# Ignorando diretório com ZIP's dos sprites originais, para evitar carga desnecessária
+sprites-originais/
+
+# Ignorando Script Python para calcular dimencionamento dos sprites
+calc_dimencionamento_sprite.py
+
+# Ignora modelo de layout do jogo em .psd
+assets/modelo_jogo.psd
+
+# Ignora diretório preview/
+assets/preview
