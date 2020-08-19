@@ -8,13 +8,13 @@
 > Salve a terra dos Invaders junto com o Iron Man
 
 <p align="center">
-    <img src="assets/preview-iron-man-game.gif" width="350px"/>
+    <img src="./assets/demo/preview-iron-man-game.gif" width="350px"/>
 </p>
 
 ## O que é MIT App Inventor ?
 
 <p align="center">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560674001/knight_game/logoAppInventor_bokjby.png" width="70px"/>
+    <img src="./assets/demo/logoAppInventor.png" width="70px"/>
 </p>
 
 MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação de código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology (MIT).
@@ -22,7 +22,7 @@ MIT App Inventor, também conhecido como App Inventor for Android, é uma aplica
 Ele permite que os recém-chegados à programação de computador criem aplicativos de software para o sistema operacional Android. Ele usa uma interface gráfica, muito semelhante ao do zero e da interface do usuário StarLogo TNG, que permite aos usuários arrastar e soltar objetos visuais para criar um aplicativo que pode ser executado em dispositivos Android.
 
 <p align="center">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1560673711/knight_game/appinventor_f62fy4.gif" width="550px"/>
+    <img src="./assets/demo/appinventor.gif" width="550px"/>
 </p>
 
 **Fonte:** [Wikipédia](https://pt.wikipedia.org/wiki/App_Inventor)</p>
@@ -32,7 +32,7 @@ Ele permite que os recém-chegados à programação de computador criem aplicati
 Assim como [Knight Game](https://github.com/matheusfelipeog/knight-game-appinventor), *Iron Man vs Invaders* tem como princípio mostrar a capacidade da plataforma MIT App Inventor na criação de simples jogos para dispositivos Android, e incentivar quem está utilizando esse sistema.
 
 <p align="center">
-    <img src="https://res.cloudinary.com/mts-cloud/image/upload/v1561060062/iron_man_vs_invaders/tela_sobre_ycz7v6.jpg" width="350px"/>
+    <img src="./assets/demo/tela_sobre.jpg" width="350px"/>
 </p>
 
 O jogo utiliza os sensores de orientação e temporizador do próprio dispositivo para realizar a movimentação tanto dos personagens como do ambiente.
@@ -42,7 +42,7 @@ O jogo utiliza os sensores de orientação e temporizador do próprio dispositiv
 ## Instalação
 1. Para instalação do jogo, é necessário que faça o download do [Arquivo APK](/ironMan_Vs_Invaders.apk) em um aparelho Android ou Emulador Android;
 
-<img src="https://res.cloudinary.com/mts-cloud/image/upload/v1561063736/iron_man_vs_invaders/img_download_apk_pz8zrd.png" />
+<img src="./assets/demo/img_download_apk.png" />
 
 2. Após download, vá até ***Meus Arquivos***;
 
@@ -60,7 +60,7 @@ O jogo utiliza os sensores de orientação e temporizador do próprio dispositiv
 
 Para realizar modificações no Jogo, é necessário fazer o download do [Projeto .aia](ironMan_Vs_Invaders.aia) em sua maquina e seguir os seguintes passos:
 
-<img src="https://res.cloudinary.com/mts-cloud/image/upload/v1561063736/iron_man_vs_invaders/img_download_aia_btpjfl.png" />
+<img src="./assets/demo/img_download_aia.png" />
 
 1. Faça seu cadastro/login na plataforma do [MIT App Inventor](http://ai2.appinventor.mit.edu) com sua conta da Google;
 
