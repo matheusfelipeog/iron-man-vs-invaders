@@ -1,14 +1,21 @@
+<h1 align="center">
+    Iron Man vs Invaders
+</h1>
+
+<p align="center">
+    
 ![appinventor](https://img.shields.io/badge/app%20inventor-v2-blue.svg)
 ![version](https://img.shields.io/badge/game%20version-v1.0-blue.svg)
 [![License](https://img.shields.io/github/license/matheusfelipeog/iron-man-vs-invaders.svg)](https://github.com/matheusfelipeog/iron-man-vs-invaders/blob/master/LICENSE)
 
-***
-
-# Iron Man vs Invaders
-> Salve a terra dos Invaders junto com o Iron Man
+</p>
 
 <p align="center">
     <img src="./assets/demo/preview-iron-man-game.gif" width="350px"/>
+</p>
+
+<p align="center">
+    Iron Man salvando a terra dos terríveis Invaders
 </p>
 
 ## O que é MIT App Inventor ?
